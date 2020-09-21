@@ -7,3 +7,11 @@ Machine Learning models and algorithms implemented:
 - K-Means Clustering
 - Principal Component Analysis
 - Long Short-Term Memory Network (Recurrent Neural Network)
+
+Link to my presentation on this:
+https://docs.google.com/presentation/d/1l4wHtpEepCvUk1RyI_L918uD4AV8MJGRiBWp5jOeXgw/edit?usp=sharing
+
+Links to the datasets used:
+https://www.google.com/covid19/mobility/
+https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+https://github.com/OxCGRT/covid-policy-tracker
