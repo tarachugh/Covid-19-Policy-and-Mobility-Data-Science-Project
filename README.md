@@ -9,7 +9,7 @@ Machine Learning models and algorithms implemented:
 - Long Short-Term Memory Network (Recurrent Neural Network)
 
 
-Link to my presentation on this:
+Link to my presentation on this project:
 https://docs.google.com/presentation/d/1l4wHtpEepCvUk1RyI_L918uD4AV8MJGRiBWp5jOeXgw/edit?usp=sharing
 
 Links to the datasets used:
